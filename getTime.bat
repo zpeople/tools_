@@ -1,0 +1,1 @@
+set/p="[%date% %time:~0,8%]"<nul | clip
